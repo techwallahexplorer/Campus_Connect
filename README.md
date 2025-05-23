@@ -1,4 +1,4 @@
-# Project Title
+# Campus Connect
 
 ## Overview
 
